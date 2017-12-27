@@ -1,0 +1,11 @@
+{
+    "api":{
+        "root": "https://trybotic.herokuapp.com",
+        "socketRoot": "https://trybotic.herokuapp.com:5000"
+    },
+    "databaseURL":"mongodb://khushboo2502:k8336042640@ds113636.mlab.com:13636/trybotics",
+    "link": "trybotics.com",
+    "googleClientId":"762561217007-8s8fuqdeh9mt5napjvkd7u811c65ueej.apps.googleusercontent.com",
+    "facebookAppId":"248589285541147",
+    "linkedinApiKey":"8175qcyv1zijbt"
+}
