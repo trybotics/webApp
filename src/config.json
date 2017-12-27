@@ -1,6 +1,6 @@
 {
     "api":{
-        "root": "https://trybotic.herokuapp.com",
+        "root": "http://nodejs-mongo-persistent-trybotics.193b.starter-ca-central-1.openshiftapps.com",
         "socketRoot": "https://trybotic.herokuapp.com:5000"
     },
     "databaseURL":"mongodb://khushboo2502:k8336042640@ds113636.mlab.com:13636/trybotics",
